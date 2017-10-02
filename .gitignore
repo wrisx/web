@@ -1,0 +1,12 @@
+
+.idea/
+wrisx.iml
+/data/
+/node_modules/
+**.bin
+**/owned.abi
+/package-lock.json
+/commands.txt
+commands.txt
+/src/test/
+/commands_test.txt
